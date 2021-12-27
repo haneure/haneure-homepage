@@ -4,11 +4,13 @@
   "description": "Chris's website",
   "scripts": {
     "dev": "next dev -H 0.0.0.0",
-    "build": "prettier -write .",
+    "build": "next build",
+    "start": "next start",
+    "prettier": "prettier --write .",
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "Christian Halim<hi@haneure>",
+  "author": "Christian Halim",
   "license": "MIT",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.1",
