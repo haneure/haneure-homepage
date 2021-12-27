@@ -118,7 +118,7 @@ const Page = () => {
                             </Link>
                         </ListItem>
                         <ListItem>
-                            <Link target="_blank" isDisabled>
+                            <Link target="_blank">
                                 <Button variant="ghost" colorScheme="teal" leftIcon={<Icon as = {IoLogoDiscord}/>}>
                                     Discord
                                 </Button>
