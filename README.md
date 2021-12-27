@@ -5,7 +5,9 @@
 <a href="https://www.youtube.com/watch?v=bSMZgXzC9AA"><img src="./doc/thumb.png" alt="Takuya" width="700"/></a>
 
 ## Christian Halim
-<a href="https://www.linkedin.com/in/haneure/"><img src="./doc/instagram.jpg" alt="Takuya"/></a> </br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/haneure/"><img src="./doc/instagram.jpg" alt="Takuya" width="300"/></a> </br>
+</p>
 I am a computer science student at Multimedia Nusantara University, currently on 6th semester. My GPA is 3.84
 I mainly code on Javascript and Java as a Back End Developer.
 I am striving to be a Full Stack Developer who can adapt to many languanges with ease.
