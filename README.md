@@ -4,6 +4,12 @@
 ## Tutorial
 (./doc/thumb.png)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
 
+## Christian Halim
+I am a computer science student at Multimedia Nusantara University, currently on 6th semester. My GPA is 3.84
+I mainly code on Javascript and Java as a Back End Developer.
+I am striving to be a Full Stack Developer who can adapt to many languanges with ease.
+Please take a while to look at my recent projects on my homepage.
+
 ## Stack
 - [Next.js](https://nextjs.org/) - A React framework with hybrid static & server rendering, and route pre-fetching, etc.
 - [Chakra UI](https://chakra-ui.com/) - A simple, modular and accessible component library for React
