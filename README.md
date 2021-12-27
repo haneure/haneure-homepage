@@ -2,7 +2,7 @@
 [https://www.craftz.dog/](https://www.craftz.dog/)
 
 ## Tutorial
-<img href="https://www.youtube.com/watch?v=bSMZgXzC9AA" src="./doc/thumb.png" alt="Takuya" width="200"/>
+<a href="https://www.youtube.com/watch?v=bSMZgXzC9AA"><img src="./doc/thumb.png" alt="Takuya" width="200"/></a>
 [![Takuya's YouTube](./doc/thumb.png)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
 
 ## Christian Halim
