@@ -6,7 +6,7 @@
 
 ## Christian Halim
 <p align="center">
-  <a href="https://www.linkedin.com/in/haneure/"><img src="./doc/instagram.jpg" alt="Takuya" width="300"/></a> </br>
+  <a href="https://www.linkedin.com/in/haneure/"><img src="./doc/instagram.jpg" alt="Takuya" width="100"/></a> </br>
 </p>
 I am a computer science student at Multimedia Nusantara University, currently on 6th semester. My GPA is 3.84
 I mainly code on Javascript and Java as a Back End Developer.
