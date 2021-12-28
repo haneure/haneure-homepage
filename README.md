@@ -1,4 +1,3 @@
-# Credits to Takuya Matsuyama
 ## Tutorial
 <a href="https://www.youtube.com/watch?v=bSMZgXzC9AA"><img src="./doc/thumb.png" alt="Takuya" width="700"/></a>
 
