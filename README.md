@@ -2,10 +2,12 @@
 [https://www.craftz.dog/](https://www.craftz.dog/)
 
 ## Tutorial
-(./doc/thumb.png)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
+<a href="https://www.youtube.com/watch?v=bSMZgXzC9AA"><img src="./doc/thumb.png" alt="Takuya" width="700"/></a>
 
 ## Christian Halim
-(./doc/instagram.png)](https://www.linkedin.com/in/haneure/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/haneure/"><img src="./doc/instagram.jpg" alt="Takuya" width="100"/></a> </br>
+</p>
 I am a computer science student at Multimedia Nusantara University, currently on 6th semester. My GPA is 3.84
 I mainly code on Javascript and Java as a Back End Developer.
 I am striving to be a Full Stack Developer who can adapt to many languanges with ease.
