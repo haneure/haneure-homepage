@@ -9,6 +9,7 @@ import thumbRentol from '../public/images/works/rentol_eyecatch.png'
 import thumbEnadasama from '../public/images/works/enadasama_eyecatch.png'
 import thumbFoodyFoodyay from '../public/images/works/foodyfoodyay_eyecatch.png'
 import thumbIDM from '../public/images/works/idm_eyecatch.png'
+import thumbBlog from '../public/images/works/blog_eyecatch.png'
 
 import Layout from "../components/layouts/article";
 
@@ -47,6 +48,11 @@ const Works = () => {
                     <Section>
                         <WorkGridItem id="foodyfoodyay" title="Foody-Foodyay" thumbnail={thumbFoodyFoodyay}>
                             A web app for users to check cooking recipe and ingredients nutrition.
+                        </WorkGridItem>
+                    </Section>
+                    <Section>
+                        <WorkGridItem id="blog" title="Blog" thumbnail={thumbBlog}>
+                            Blog app for users to post their intereset in stuff.
                         </WorkGridItem>
                     </Section>
                 </SimpleGrid>
