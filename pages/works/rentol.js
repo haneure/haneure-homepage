@@ -6,19 +6,19 @@ import Layout from '../../components/layouts/article'
 
 const Work = () => {
     return (
-        <Layout title="Lerenle">
+        <Layout title="Rentol">
             <Container>
                 <Title>
-                    Lerenle <Badge>2021</Badge>
+                    Rentol <Badge>2021</Badge>
                 </Title>
                 <P>
-                    Lerenle offers you a hotel booking app with beautiful design to showcase hotels and its room. You can book for stay easily with this app.
+                    An app that used for users who owns consoles to showcase their console to rent out or for users who want to rent consoles.
                 </P>
                 <List ml={4} my={4}>
                     <ListItem>
                         <Meta>Website</Meta>
-                        <Link href="https://lerenle.000webhostapp.com/">
-                        https://lerenle.000webhostapp.com/ <ExternalLinkIcon mx="2px" />
+                        <Link href="https://rental-uas-if430-rentol.000webhostapp.com/">
+                        https://rental-uas-if430-rentol.000webhostapp.com/ <ExternalLinkIcon mx="2px" />
                         </Link>
                     </ListItem>
                     <ListItem>
@@ -30,12 +30,12 @@ const Work = () => {
                         <span>PHP, HTML, JS, CSS, MySQL, CodeIgniter</span>
                     </ListItem>
                 </List>
-                <WorkImage src="/images/works/lerenle_eyecatch.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_01.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_02.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_03.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_04.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_05.png" alt="Lerenle" />
+                <WorkImage src="/images/works/rentol_eyecatch.png" alt="Rentol" />
+                <WorkImage src="/images/works/rentol_01.png" alt="Rentol" />
+                <WorkImage src="/images/works/rentol_02.png" alt="Rentol" />
+                <WorkImage src="/images/works/rentol_05.png" alt="Rentol" />
+                <WorkImage src="/images/works/rentol_04.png" alt="Rentol" />
+                <WorkImage src="/images/works/rentol_03.png" alt="Rentol" />
             </Container>
         </Layout>
     )

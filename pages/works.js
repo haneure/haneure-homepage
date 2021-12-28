@@ -36,12 +36,12 @@ const Works = () => {
                     </Section>
                     <Section>
                         <WorkGridItem id="rentol" title="Rentol" thumbnail={thumbRentol}>
-                            An app that used for users who owns consoles to showcase their console for rent out or for users who want to rent consoles.
+                            An app that used for users who owns consoles to showcase their console to rent out or for users who want to rent consoles.
                         </WorkGridItem>
                     </Section>
                     <Section>
                         <WorkGridItem id="enadasama" title="Enadasama" thumbnail={thumbEnadasama}>
-                            Enadasama is a web app that offer food ordering services. You can promote your restaurant and its menu with this app.
+                            Enadasama is a web app that offers food ordering services. You can promote your restaurant and its menu with this app.
                         </WorkGridItem>
                     </Section>
                     <Section>

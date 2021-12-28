@@ -6,19 +6,19 @@ import Layout from '../../components/layouts/article'
 
 const Work = () => {
     return (
-        <Layout title="Lerenle">
+        <Layout title="Foody-Foodyay">
             <Container>
                 <Title>
-                    Lerenle <Badge>2021</Badge>
+                    Foody-Foodyay <Badge>2020</Badge>
                 </Title>
                 <P>
-                    Lerenle offers you a hotel booking app with beautiful design to showcase hotels and its room. You can book for stay easily with this app.
+                    Foody-Foodyay is a web app that uses Edamam API to check for cooking recipe and ingredients nutrition. Users can use this to find recipes from all around the world, and input ingredients to find out its nutrition facts.
                 </P>
                 <List ml={4} my={4}>
                     <ListItem>
                         <Meta>Website</Meta>
-                        <Link href="https://lerenle.000webhostapp.com/">
-                        https://lerenle.000webhostapp.com/ <ExternalLinkIcon mx="2px" />
+                        <Link href="https://foody-foodyey.vercel.app/">
+                        https://foody-foodyey.vercel.app/ <ExternalLinkIcon mx="2px" />
                         </Link>
                     </ListItem>
                     <ListItem>
@@ -27,15 +27,12 @@ const Work = () => {
                     </ListItem>
                     <ListItem>
                         <Meta>Stack</Meta>
-                        <span>PHP, HTML, JS, CSS, MySQL, CodeIgniter</span>
+                        <span>PHP, HTML, JS, CSS</span>
                     </ListItem>
                 </List>
-                <WorkImage src="/images/works/lerenle_eyecatch.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_01.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_02.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_03.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_04.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_05.png" alt="Lerenle" />
+                <WorkImage src="/images/works/foodyfoodyay_eyecatch.png" alt="Foody-Foodyay" />
+                <WorkImage src="/images/works/foodyfoodyay_01.png" alt="Foody-Foodyay" />
+                <WorkImage src="/images/works/foodyfoodyay_02.png" alt="Foody-Foodyay" />
             </Container>
         </Layout>
     )

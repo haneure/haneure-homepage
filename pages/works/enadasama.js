@@ -6,19 +6,19 @@ import Layout from '../../components/layouts/article'
 
 const Work = () => {
     return (
-        <Layout title="Lerenle">
+        <Layout title="Enadasama">
             <Container>
                 <Title>
-                    Lerenle <Badge>2021</Badge>
+                    Enadasama <Badge>2020</Badge>
                 </Title>
                 <P>
-                    Lerenle offers you a hotel booking app with beautiful design to showcase hotels and its room. You can book for stay easily with this app.
+                    Enadasama is a web app that offers food ordering services. You can promote your restaurant and its menu with this app.
                 </P>
                 <List ml={4} my={4}>
                     <ListItem>
                         <Meta>Website</Meta>
-                        <Link href="https://lerenle.000webhostapp.com/">
-                        https://lerenle.000webhostapp.com/ <ExternalLinkIcon mx="2px" />
+                        <Link href="http://enadasama.000webhostapp.com/">
+                        http://enadasama.000webhostapp.com/ <ExternalLinkIcon mx="2px" />
                         </Link>
                     </ListItem>
                     <ListItem>
@@ -27,15 +27,14 @@ const Work = () => {
                     </ListItem>
                     <ListItem>
                         <Meta>Stack</Meta>
-                        <span>PHP, HTML, JS, CSS, MySQL, CodeIgniter</span>
+                        <span>PHP, HTML, JS, CSS, MySQL</span>
                     </ListItem>
                 </List>
-                <WorkImage src="/images/works/lerenle_eyecatch.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_01.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_02.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_03.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_04.png" alt="Lerenle" />
-                <WorkImage src="/images/works/lerenle_05.png" alt="Lerenle" />
+                <WorkImage src="/images/works/enadasama_eyecatch.png" alt="Enadasama" />
+                <WorkImage src="/images/works/enadasama_01.png" alt="Enadasama" />
+                <WorkImage src="/images/works/enadasama_02.png" alt="Enadasama" />
+                <WorkImage src="/images/works/enadasama_03.png" alt="Enadasama" />
+                <WorkImage src="/images/works/enadasama_04.png" alt="Enadasama" />
             </Container>
         </Layout>
     )
