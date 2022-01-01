@@ -10,6 +10,7 @@ import thumbEnadasama from '../public/images/works/enadasama_eyecatch.png'
 import thumbFoodyFoodyay from '../public/images/works/foodyfoodyay_eyecatch.png'
 import thumbIDM from '../public/images/works/idm_eyecatch.png'
 import thumbBlog from '../public/images/works/blog_eyecatch.png'
+import thumbCrypto from '../public/images/works/crypto_eyecatch.png'
 
 import Layout from "../components/layouts/article";
 
@@ -28,6 +29,11 @@ const Works = () => {
                     <Section>
                         <WorkGridItem id="renebae" title="Renebae" thumbnail={thumbRenebae}>
                             Multi-cross-platform e-commerce app created with Ionic using ReactJS and Firebase as backend
+                        </WorkGridItem>
+                    </Section>
+                    <Section>
+                        <WorkGridItem id="crypto" title="Crypto" thumbnail={thumbCrypto}>
+                            Solidity, Smart Contracts, Cryptocurrencies transaction using Ropsten Testnet.
                         </WorkGridItem>
                     </Section>
                     <Section>

@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react';
 import NextLink from 'next/link'
 import { Container, Box, Heading, Image, useColorModeValue, Link, List, ListItem, Button, SimpleGrid, Icon } from "@chakra-ui/react";
 import Section from '../components/section'
@@ -16,6 +17,15 @@ import {
 import thumbYoutube from '../public/images/links/youtube_eyecatch.png'
 
 const Page = () => {
+    const [img, setImg] = useState("/images/aqua-transparent.gif");
+
+    const hoverHandler = () => {
+        setImg("/images/aqua_02.png")
+    }
+    const hoverOutHandler = () => {
+        setImg("/images/aqua-transparent.gif")
+    }
+
     return(
         <Layout>
             <Container>
@@ -80,7 +90,7 @@ const Page = () => {
                 </Section>
                 <Section delay={0.3}>
                     <Heading>
-                        I ♥
+                        I ♥ <Image display="inline-block" src={img} onMouseEnter={() => hoverHandler()} onMouseOut={() => hoverOutHandler()} width={20} height={20} alt="Aqua"></Image>
                     </Heading>
                     <Paragraph>
                         Art, Music,{' '}

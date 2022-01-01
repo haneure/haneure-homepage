@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
 import { Text, useColorModeValue } from '@chakra-ui/react'
@@ -35,7 +36,7 @@ const Logo = () => {
             fontWeight="bold"
             ml={3}
           >
-            Christian Richard Halim
+          &nbsp;Christian Richard Halim
           </Text>
         </LogoBox>
       </a>
