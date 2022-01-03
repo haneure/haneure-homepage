@@ -23,6 +23,7 @@ const LogoBox = styled.span`
 `
 
 const Logo = () => {
+  const tigerImg = `/images/tigers${useColorModeValue('', '-dark')}.png`
   const footPrintImg = `/images/footprint${useColorModeValue('', '-dark')}.png`
 
   return (

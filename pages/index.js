@@ -64,7 +64,7 @@ const Page = () => {
                     <Heading as="h3" variant="section-title">
                         Work
                     </Heading>
-                    <Paragraph>Chris is a 3rd year computer science student and a full-stack developer based in Indonesia with a passion for building digital services/stuff he wants. He has a knack for all things launching products, from planning and designing all the way to solving real-life problems with code. When not online, he loves to play games, watch animes and hanging out with his camera.
+                    <Paragraph>Chris is a 3rd year computer science student and striving to be a full-stack developer based in Indonesia with a passion for building digital services/stuff he wants. He has a knack for all things launching products, from planning and designing all the way to solving real-life problems with code. When not coding, he loves to play games, watch animes and hanging out with his camera.
                     {/* <NextLink href="/works"><Link>Works</Link></NextLink>. */}
                     </Paragraph>
                     <Box align="center" my={4}>
@@ -97,7 +97,7 @@ const Page = () => {
                         <Link href="#">
                             Drawing
                         </Link>
-                        , Photography, Anime, Games, Machine Learning
+                        , Photography, Anime, Games, AR/VR, Machine Learning
                     </Paragraph>
                 </Section>
 
