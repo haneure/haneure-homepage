@@ -12,7 +12,7 @@ const Work = () => {
                     Blog <Badge>Ongoing</Badge>
                 </Title>
                 <P>
-                    Blog app for users to post their intereset in stuff.
+                    A web app that provides user place to post their intereseting stories or other stuffs.
                 </P>
                 <List ml={4} my={4}>
                     <ListItem>
@@ -31,6 +31,7 @@ const Work = () => {
                     </ListItem>
                 </List>
                 <WorkImage src="/images/works/blog_eyecatch.png" alt="Blog" />
+                <WorkImage src="/images/works/blog_03.png" alt="Blog" />
                 <WorkImage src="/images/works/blog_01.png" alt="Blog" />
                 <WorkImage src="/images/works/blog_02.png" alt="Blog" />
             </Container>

@@ -11,6 +11,7 @@ import thumbFoodyFoodyay from '../public/images/works/foodyfoodyay_eyecatch.png'
 import thumbIDM from '../public/images/works/idm_eyecatch.png'
 import thumbBlog from '../public/images/works/blog_eyecatch.png'
 import thumbCrypto from '../public/images/works/crypto_eyecatch.png'
+import thumbEigakan from '../public/images/works/eigakan_eyecatch.png'
 
 import Layout from "../components/layouts/article";
 
@@ -59,6 +60,11 @@ const Works = () => {
                     <Section>
                         <WorkGridItem id="blog" title="Blog" thumbnail={thumbBlog}>
                             Blog app for users to post their intereset in stuff.
+                        </WorkGridItem>
+                    </Section>
+                    <Section>
+                        <WorkGridItem id="eigakan" title="Eigakan" thumbnail={thumbEigakan}>
+                            A web app using TMDB API to show movie database from The Movie Database.
                         </WorkGridItem>
                     </Section>
                 </SimpleGrid>
