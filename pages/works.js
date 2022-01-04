@@ -28,13 +28,23 @@ const Works = () => {
 
                 <SimpleGrid columns={[ 1,1,2 ]} gap={6}>
                     <Section>
-                        <WorkGridItem id="renebae" title="Renebae" thumbnail={thumbRenebae}>
-                            Multi-cross-platform e-commerce app created with Ionic using ReactJS and Firebase as backend
+                        <WorkGridItem id="blog" title="Blog" thumbnail={thumbBlog}>
+                            Blog app for users to post their intereset in stuff.
+                        </WorkGridItem>
+                    </Section>
+                    <Section>
+                        <WorkGridItem id="eigakan" title="Eigakan" thumbnail={thumbEigakan}>
+                            A web app using TMDB API to show movie database from The Movie Database.
                         </WorkGridItem>
                     </Section>
                     <Section>
                         <WorkGridItem id="crypto" title="Crypto" thumbnail={thumbCrypto}>
                             Solidity, Smart Contracts, Cryptocurrencies transaction using Ropsten Testnet.
+                        </WorkGridItem>
+                    </Section>
+                    <Section>
+                        <WorkGridItem id="renebae" title="Renebae" thumbnail={thumbRenebae}>
+                            Multi-cross-platform e-commerce app created with Ionic using ReactJS and Firebase as backend
                         </WorkGridItem>
                     </Section>
                     <Section>
@@ -55,16 +65,6 @@ const Works = () => {
                     <Section>
                         <WorkGridItem id="foodyfoodyay" title="Foody-Foodyay" thumbnail={thumbFoodyFoodyay}>
                             A web app for users to check cooking recipe and ingredients nutrition.
-                        </WorkGridItem>
-                    </Section>
-                    <Section>
-                        <WorkGridItem id="blog" title="Blog" thumbnail={thumbBlog}>
-                            Blog app for users to post their intereset in stuff.
-                        </WorkGridItem>
-                    </Section>
-                    <Section>
-                        <WorkGridItem id="eigakan" title="Eigakan" thumbnail={thumbEigakan}>
-                            A web app using TMDB API to show movie database from The Movie Database.
                         </WorkGridItem>
                     </Section>
                 </SimpleGrid>
