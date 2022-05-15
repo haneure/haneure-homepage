@@ -1,7 +1,7 @@
 <!-- ## Tutorial
 <a href="https://www.youtube.com/watch?v=bSMZgXzC9AA"><img src="./doc/thumb.png" alt="Takuya" width="500"/></a>
  -->
-## Christian Halim
+## Christian Richard Halim
 <p align="center">
   <a href="https://www.linkedin.com/in/haneure/"><img src="./doc/instagram.jpg" alt="Takuya" width="100"/></a> </br>
 </p>
